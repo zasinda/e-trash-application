@@ -43,6 +43,9 @@ def predict_sampah(model, request_file_key):
         else:
             return "unknown"
 
+@app.route("/")
+def index():
+    return "Hello World"
 
 @app.route("/trash", methods=['POST'])
 def predict():
