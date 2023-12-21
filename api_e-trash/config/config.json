@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "etrash",
+    "database": "etrash_auth",
+    "host": "34.101.120.207",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "etrash",
+    "database": "etrash_auth",
+    "host": "34.101.120.207",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "etrash",
+    "database": "etrash_auth",
+    "host": "34.101.120.207",
+    "dialect": "mysql"
+  }
+}
